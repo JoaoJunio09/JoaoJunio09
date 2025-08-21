@@ -41,6 +41,6 @@ Apaixonado por tecnologia e soluções inovadoras, tendo como intuito a fazer di
 ## Quem eu sou
 
 Me chamo João Junio, tenho 16 anos e sou um estudante apaixonado por Tecnologia.<br>
-Atualmente sou aluno da escola Técnico Estadual ETEC, cursando Informática para Internet Integrado ao Ensimo Médio.<br><br>
+Atualmente sou aluno da escola Técnico Estadual ETEC, cursando Informática para Internet Integrado ao Ensino Médio.<br><br>
 Desde ainda muito novo sempre fui fascinado por computadores e o que podemos fazer com eles, seja uma simples pesquisa na web até o desenvolvimento de grandes jogos e aplicativos, acredito que foi essa curiosidade que me trouxe até onde estou, cursando Informática na 2º série e estudando Java com Spring Boot.<br><br>
-Tenho muito ainda a aprender e crescer na área, e com isso, atualmente venho buscando uma oportunidade no mercado com uma vaga de estágio, para poder mostrar ao mundo tudo oque eu sei e posso fazer, trazendo soluções que possam contribuir e ajudar na vida de diversas pessoas, e no crescimento da empressa como um todo.
+Tenho muito ainda a aprender e crescer na área, e com isso, atualmente venho buscando uma oportunidade no mercado com uma vaga de estágio, para poder mostrar ao mundo tudo o que sei e posso fazer, trazendo soluções que possam contribuir e ajudar na vida de diversas pessoas, e no crescimento da empressa como um todo.
