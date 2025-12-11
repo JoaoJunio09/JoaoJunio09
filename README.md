@@ -29,22 +29,15 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+---
 
-<div align="center">
+# 🚀 Estatísticas do GitHub
 
-<table>
-<tr>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical"/>
-</td>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical"/>
-</td>
-</tr>
-</table>
+<!-- Stats -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoJunio09&theme=tokyonight)
 
-</div>
+<!-- Top Langs -->
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoJunio09&theme=tokyonight)
 
 ---
 
