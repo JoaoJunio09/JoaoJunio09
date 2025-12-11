@@ -1,18 +1,29 @@
 <h1 align="center">👋 Olá, eu sou o João Junio</h1>
 
-<p align="center">
-  Desenvolvedor focado em Java, Spring Boot e mobile com React Native.  
-  Apaixonado por criar aplicações reais, performáticas e bem estruturadas.
-</p>
+<p align="center">Desenvolvedor focado em Java, Spring Boot, Docker e Kubernetes.</p>
 
 ---
 
-## 🚀 Tecnologias que uso diariamente
+## 🚀 Tecnologias que uso
 <div align="center">
-  
-| Back-end | Front-end | Mobile | Banco de Dados | DevOps |
-|---------|------------|--------|----------------|--------|
-| Java • Spring Boot | HTML • CSS • JS | React Native | MySQL • PostgreSQL | Docker • Kubernetes • GitHub Actions |
+
+### Linguagens
+<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
+
+### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+### Back-end
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs&theme=dark" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
+
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+
+### DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" />
 
 </div>
 
@@ -25,50 +36,29 @@
 <table>
 <tr>
 <td>
-
-<!-- STATS 1 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical"/>
-
 </td>
 <td>
-
-<!-- STATS 2 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical"/>
-
 </td>
 </tr>
 </table>
-
-<!-- STATS 3 (streak) -->
-<img height="180em" src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=radical"/>
 
 </div>
 
 ---
 
-## 📱 Meu projeto principal: Contactfy
-**Sistema web + mobile para gestão de contatos**, com foco em desempenho, organização e UX.
-
-- ✔ Versão web em HTML, CSS e JavaScript  
-- ✔ Backend em Spring Boot  
-- ✔ Versão mobile em React Native  
-- ✔ Integração real + autenticação
+## 📱 Projeto Atual: Contactfy
+• Sistema completo Web + Mobile  
+• React Native + Spring Boot  
+• UI moderna, performática e escalável  
 
 ---
 
-## 📚 Estudando agora
-- React Native (para criar apps profissionais)
-- Padrões de projeto no Spring
-- Estruturas de dados e algoritmos
-
----
-
-## 📬 Fale comigo
+## 📬 Contato
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/)
-
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="#"><img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
 </div>
 
 ---
