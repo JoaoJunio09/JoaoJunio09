@@ -2,14 +2,22 @@
 Seja muito bem-vindo ao meu perfil!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaojunio_09/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaojuniodev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-junio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaojunio0907@gmail.com)
-
-![João Junio GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoJunio09&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🚀 Principais Tecnologias
+# 🚀 Estatísticas do GitHub
+
+<!-- Stats -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoJunio09&theme=tokyonight)
+
+<!-- Top Langs -->
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoJunio09&theme=tokyonight)
+
+---
+
+# 🧰 Principais Tecnologias
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -34,23 +42,24 @@ Seja muito bem-vindo ao meu perfil!
 ---
 
 # 🌟 Projetos
+
 - [Site de conscientização sobre vícios na adolescência – Trabalho 2º semestre 2024](https://estudodosjovens.com.br/)
 - [LibrarySystem – Sistema para biblioteca (JavaFX + MySQL)](https://github.com/JoaoJunio09/librarySystem)
 - [SchoolSystem – Sistema escolar (JavaFX + MySQL) – em desenvolvimento](https://github.com/JoaoJunio09/school-sysem-javafx-mysql-jdbc)
 
 ---
 
-# 👨‍💻 Quem sou eu
+# 👨‍💻 Sobre mim
 
-Me chamo **João Junio**, tenho **16 anos** e sou um estudante apaixonado por tecnologia.  
-Atualmente curso **Informática para Internet** na ETEC, integrado ao Ensino Médio.
+Me chamo **João Junio**, tenho **16 anos** e sou apaixonado por tecnologia.  
+Atualmente estudo **Informática para Internet** na ETEC, integrado ao Ensino Médio.
 
-Desde muito cedo sempre fui fascinado por computadores e pelo que podemos criar com eles — desde uma simples pesquisa até grandes sistemas, sites e aplicações completas. Essa curiosidade me trouxe até aqui: estudando programação e me aprofundando principalmente em **Java** e **Spring Boot**.
+Desde pequeno sempre fui fascinado por computadores e pelo que podemos criar com eles — de pequenas aplicações até sistemas completos. Essa curiosidade me trouxe até onde estou hoje: estudando **Java**, **Spring Boot** e desenvolvimento web.
 
-Estou sempre em busca de aprendizado e evolução. Meu objetivo é conquistar uma oportunidade de **estágio** para aplicar meus conhecimentos, contribuir com soluções reais e crescer junto com a empresa.
+Busco sempre evoluir e aprender mais, e atualmente procuro uma **oportunidade de estágio** para aplicar meus conhecimentos na prática, contribuir com soluções reais e crescer junto com a empresa.
 
-Tecnologia, para mim, é uma forma de transformar ideias em impacto real na vida das pessoas — e quero fazer parte disso.
+Acredito que tecnologia é uma forma de transformar ideias em impacto real — e quero fazer parte disso.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJunio09&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+⭐ *Obrigado por visitar meu perfil!*
