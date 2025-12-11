@@ -29,15 +29,15 @@
 
 ---
 
----
-
 # 🚀 Estatísticas do GitHub
 
-<!-- Stats -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoJunio09&theme=tokyonight)
-
-<!-- Top Langs -->
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoJunio09&theme=tokyonight)
+<div style="display: flex; justify-content: center">
+  <!-- Stats -->
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoJunio09&theme=tokyonight)
+  
+  <!-- Top Langs -->
+  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoJunio09&theme=tokyonight)
+</div>
 
 ---
 
