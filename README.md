@@ -45,7 +45,7 @@
 # 🌟 Projetos
 
 - [TaskHub - Gerenciamento de Tarefas Premium](https://github.com/JoaoJunio09/taskHub)
-- [CloudKeeper - Gerenciador de Arquivos em Nuvem]([https://github.com/JoaoJunio09/librarySystem](https://github.com/JoaoJunio09/cloud-kepper-backend))
+- [CloudKeeper - Gerenciador de Arquivos em Nuvem](https://github.com/JoaoJunio09/cloud-kepper-backend)
 - [ContactFy - Gerenciador de Contatos](https://github.com/JoaoJunio09/agenda-de-contatos)
 
 ---
