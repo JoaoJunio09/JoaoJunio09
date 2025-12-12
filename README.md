@@ -52,8 +52,8 @@
 
 ## 📬 Contato
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="#"><img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
+<a href="https://www.linkedin.com/in/joaojuniodev"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://api.whatsapp.com/qr/T2SPS3Z4GMU5G1?autoload=1&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
 </div>
 
 ---
