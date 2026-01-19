@@ -16,12 +16,6 @@
 ### Back-end
 <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs&theme=dark" />
 
-### Mobile
-<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
-
-### Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-
 ### DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" />
 
