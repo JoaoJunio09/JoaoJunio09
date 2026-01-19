@@ -13,9 +13,6 @@
 ### Front-end
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
-### Back-end
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs&theme=dark" />
-
 ### DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" />
 
