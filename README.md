@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o João Junio</h1>
 
-<p align="center">Desenvolvedor focado em Java, Spring Boot, Docker e Kubernetes.</p>
+<p align="center">Desenvolvedor focado em Java, Spring Boot, Docker, JavaScript e PHP</p>
 
 ---
 
