@@ -86,13 +86,12 @@ Sistema para gerenciamento de turmas, catequizandos e controle de presença, pro
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoJunio09&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJunio09&layout=compact&theme=tokyonight"/>
-
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ---
 
@@ -101,7 +100,6 @@ Sistema para gerenciamento de turmas, catequizandos e controle de presença, pro
 - Docker
 - Arquitetura de Software
 - Testes Automatizados
-- AWS
 - CI/CD
 
 ---
