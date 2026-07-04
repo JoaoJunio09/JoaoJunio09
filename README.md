@@ -1,15 +1,15 @@
-# Hi 👋, I'm João Junio
+# Olá 👋, eu sou João Junio
 
-🚀 **Full Stack Developer | Java & Spring Boot Specialist**  
-🇧🇷 Brazil
+🚀 **Desenvolvedor Full Stack | Especialista em Java & Spring Boot**  
+🇧🇷 Brasil
 
-I build **modern web applications**, **REST APIs**, and **full stack solutions** focused on performance, scalability and clean architecture.
+Desenvolvo **aplicações web modernas**, **APIs REST** e **soluções Full Stack** com foco em desempenho, escalabilidade e arquitetura limpa.
 
-My main stack is **Java**, **Spring Boot**, **React** and **PostgreSQL**, always applying software engineering best practices to create maintainable and high-quality applications.
+Minha principal stack é **Java**, **Spring Boot**, **React** e **PostgreSQL**, aplicando boas práticas de Engenharia de Software para criar aplicações organizadas, seguras e de alta qualidade.
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Onde me encontrar
 
 <p align="left">
 
@@ -25,36 +25,36 @@ My main stack is **Java**, **Spring Boot**, **React** and **PostgreSQL**, always
 
 ---
 
-## 💡 What I do
+## 💼 O que eu desenvolvo
 
-- 🏗️ Full Stack Web Applications
-- ⚙️ REST API Development
-- 🔐 Authentication & Authorization (JWT)
-- 🧩 Clean Architecture
-- 🗄️ Database Modeling
-- 📊 Dashboard & Data Visualization
-- 📱 Responsive Interfaces
-- 🚀 Performance & Code Quality
+- 🏗️ Aplicações Web Full Stack
+- ⚙️ Desenvolvimento de APIs REST
+- 🔐 Autenticação e Autorização com JWT
+- 🧩 Arquitetura Limpa (Clean Architecture)
+- 🗄️ Modelagem e Integração com Banco de Dados
+- 📊 Dashboards e Visualização de Dados
+- 📱 Interfaces Responsivas
+- 🚀 Aplicações focadas em desempenho e qualidade de código
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
 ### 💰 Finance Pro
 
-Modern personal finance management platform featuring dashboards, analytics, authentication and responsive design.
+Sistema moderno de gestão financeira pessoal com dashboards, relatórios, autenticação segura e interface inspirada em aplicações SaaS.
 
 ### 📇 Contactfy
 
-Complete contact management platform with authentication, organization features and modern interface.
+Plataforma completa para gerenciamento de contatos, empresas e relacionamentos, desenvolvida com foco em organização, produtividade e experiência do usuário.
 
-### ⛪ SPC
+### ⛪ SPC — Sistema de Presença da Catequese
 
-Attendance management system built for catechesis classes, providing organization and productivity.
+Sistema para gerenciamento de turmas, catequizandos e controle de presença, proporcionando mais organização às atividades da catequese.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Backend
 
@@ -70,12 +70,12 @@ Attendance management system built for catechesis classes, providing organizatio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-### Database
+### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Tools
+### Ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -84,7 +84,7 @@ Attendance management system built for catechesis classes, providing organizatio
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
 
@@ -96,22 +96,22 @@ Attendance management system built for catechesis classes, providing organizatio
 
 ---
 
-## 🎯 Currently Learning
+## 📚 Atualmente estudando
 
 - Docker
-- Software Architecture
-- Automated Testing
+- Arquitetura de Software
+- Testes Automatizados
 - AWS
 - CI/CD
 
 ---
 
-## 🚀 Philosophy
+## 💡 Minha filosofia
 
-> _"Great software is built with clean architecture, maintainable code and solutions that create real value."_
+> _"Grandes aplicações são construídas com uma arquitetura sólida, código limpo e soluções que geram valor para as pessoas."_
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey as a Full Stack Developer.
+⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução como Desenvolvedor Full Stack.
 
-🤝 Always open to new opportunities, collaborations and innovative projects.
+🤝 Estou sempre aberto a novas oportunidades, desafios e projetos que gerem impacto.
