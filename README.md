@@ -1,66 +1,212 @@
-<h1 align="center">👋 Olá, eu sou o João Junio</h1>
+```markdown
+<h1 align="center">João Junio</h1>
 
-<p align="center">Desenvolvedor focado em Java, Spring Boot, React & Softwares para produção</p>
+<p align="center">
+  <strong>Full Stack Developer</strong>
+</p>
+
+<p align="center">
+Construindo aplicações web modernas, escaláveis e de alta qualidade com Java, Spring Boot, React e PostgreSQL.
+</p>
+
+<p align="center">
+
+[![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)](https://spring.io/)
+[![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)](https://react.dev/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+
+</p>
 
 ---
 
-## 🚀 Tecnologias que uso
+# Sobre mim
+
+Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações modernas, escaláveis e bem estruturadas.
+
+Tenho foco no desenvolvimento de soluções utilizando **Java**, **Spring Boot**, **React** e **PostgreSQL**, aplicando conceitos como **Clean Architecture**, **REST APIs**, **autenticação segura**, **boas práticas de engenharia de software** e interfaces modernas voltadas para uma excelente experiência do usuário.
+
+Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Docker, testes automatizados e cloud, buscando construir aplicações cada vez mais robustas e profissionais.
+
+---
+
+# Stack Principal
+
+## Backend
+
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
-
-### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
-
-### Back-end
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs&theme=dark" />
-
-### Mobile
-<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
-
-### Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-
-### DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark"/>
 
 </div>
 
----
-
-# 🚀 Estatísticas do GitHub
-
-<div style="display: flex; justify-content: center;">
-  
-  <!-- Stats -->
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoJunio09&theme=tokyonight)
-  
-  <!-- Top Langs -->
-  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoJunio09&theme=tokyonight)
-</div>
+- Java
+- Spring Boot
+- Spring Security
+- Hibernate / JPA
+- JWT Authentication
+- REST APIs
+- Maven
 
 ---
 
-# 🌟 Projetos
+## Front-end
 
-- [TaskHub - Gerenciamento de Tarefas Premium](https://github.com/JoaoJunio09/taskHub)
-- [CloudKeeper - Gerenciador de Arquivos em Nuvem](https://github.com/JoaoJunio09/cloud-kepper-backend)
-- [ContactFy - Gerenciador de Contatos](https://github.com/JoaoJunio09/agenda-de-contatos)
-
-## Quem eu sou
-
-Me chamo João Junio, tenho 17 anos e sou um estudante apaixonado por Tecnologia.<br>
-Atualmente sou aluno da escola Técnico Estadual ETEC, cursando Informática para Internet Integrado ao Ensino Médio.<br><br>
-Desde ainda muito novo sempre fui fascinado por computadores e o que podemos fazer com eles, seja uma simples pesquisa na web até o desenvolvimento de grandes jogos e aplicativos, acredito que foi essa curiosidade que me trouxe até onde estou, cursando Informática na 3º série e estudando Java com Spring Boot.<br><br>
-Tenho muito ainda a aprender e crescer na área, e com isso, atualmente venho buscando uma oportunidade no mercado com uma vaga de estágio, para poder mostrar ao mundo tudo o que sei e posso fazer, trazendo soluções que possam contribuir e ajudar na vida de diversas pessoas, e no crescimento da empressa como um todo.
-
-## 📬 Contato
 <div align="center">
-<a href="https://www.linkedin.com/in/joaojuniodev"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://api.whatsapp.com/qr/T2SPS3Z4GMU5G1?autoload=1&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js&theme=dark"/>
+
+</div>
+
+- React
+- TypeScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## Banco de Dados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
+
+</div>
+
+- PostgreSQL
+- MySQL
+
+---
+
+## Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea&theme=dark"/>
+
+</div>
+
+- Docker
+- Git
+- GitHub
+- Postman
+- IntelliJ IDEA
+- VS Code
+
+---
+
+# Projetos em Destaque
+
+## Contactfy
+
+Sistema completo para gerenciamento de contatos, empresas e negociações.
+
+**Tecnologias**
+
+- Java
+- Spring Boot
+- React
+- PostgreSQL
+- JWT
+- Spring Security
+
+---
+
+## Finance Pro
+
+Aplicação de gestão financeira pessoal com dashboards, relatórios, autenticação e interface moderna.
+
+**Tecnologias**
+
+- Java
+- Spring Boot
+- React
+- PostgreSQL
+- Tailwind CSS
+
+---
+
+## SPC — Sistema de Presença da Catequese
+
+Sistema desenvolvido para gerenciamento de presença de catequizandos, controle de turmas e acompanhamento das aulas.
+
+**Tecnologias**
+
+- Java
+- Spring Boot
+- React
+- PostgreSQL
+
+---
+
+## TaskHub
+
+Sistema moderno para gerenciamento de tarefas utilizando arquitetura escalável e interface responsiva.
+
+---
+
+## CloudKeeper
+
+Sistema para gerenciamento de arquivos em nuvem com foco em organização e armazenamento seguro.
+
+---
+
+# Tecnologias que utilizo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,postgres,mysql,docker,git,github,postman&theme=dark"/>
+
 </div>
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
+# Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoJunio09&theme=tokyonight"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoJunio09&theme=tokyonight"/>
+
+</div>
+
+---
+
+# Atualmente estudando
+
+- Arquitetura de Software
+- Docker
+- Testes Automatizados
+- AWS
+- CI/CD
+- Boas práticas de Engenharia de Software
+
+---
+
+# Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joaojuniodev">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://api.whatsapp.com/qr/T2SPS3Z4GMU5G1?autoload=1&app_absent=0">
+<img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Código limpo, arquitetura sólida e soluções que geram impacto."
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
+```
