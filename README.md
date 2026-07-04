@@ -84,10 +84,6 @@ Sistema para gerenciamento de turmas, catequizandos e controle de presença, pro
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
----
-
 ## 📚 Atualmente estudando
 
 - Docker
@@ -97,12 +93,6 @@ Sistema para gerenciamento de turmas, catequizandos e controle de presença, pro
 
 ---
 
-## 💡 Minha filosofia
+## 💡 Filosofia
 
 > _"Grandes aplicações são construídas com uma arquitetura sólida, código limpo e soluções que geram valor para as pessoas."_
-
----
-
-⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução como Desenvolvedor Full Stack.
-
-🤝 Estou sempre aberto a novas oportunidades, desafios e projetos que gerem impacto.
