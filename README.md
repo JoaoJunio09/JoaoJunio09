@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">João Junio</h1>
 
 <p align="center">
@@ -209,4 +208,3 @@ Sistema para gerenciamento de arquivos em nuvem com foco em organização e arma
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
-```
